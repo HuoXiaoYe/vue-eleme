@@ -1,6 +1,9 @@
 # app-eleme
 
+
+
 > A Vue.js project
+> 一个简单的vue-app项目  欢迎喜欢前端的朋友一起交流学习
 
 ## Build Setup
 
